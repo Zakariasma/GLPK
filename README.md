@@ -1,4 +1,4 @@
-# Scientific Research – Solving the Multiple Knapsack Problem with GLPK
+# Solving the Multiple Knapsack Problem with GLPK
 
 This GitHub repository is dedicated to the implementation, analysis, and validation of solutions to the Multiple Knapsack Problem (MKP), developed as part of a mathematics project at the University of Mons (UMONS), Belgium.
 
